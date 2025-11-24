@@ -97,7 +97,7 @@ ol {
   gap: 5px;
 }
 
-.search-form__label:hover {
+.checkbox-list-decoration:hover {
   text-decoration: underline;
   cursor: pointer;
 }
